@@ -37,13 +37,13 @@ git clone https://github.com/DataDudeSaadKhan/Sentiment-Analysis-with-LSTM-Neura
 2. **Navigate to Repository Directory**: Change your current directory to the cloned repository:
 
 ```bash
-cd sentiment-analysis-lstm
+cd Sentiment-Analysis-with-LSTM-Neural-Network
 ```
 
-3. **Run the Script**: Execute the Python script `sentiment_analysis.py`:
+3. **Run the Script**: Execute the Python script `Sentiment-Analysis-with-LSTM-Neural-Network.py`:
 
 ```bash
-python sentiment_analysis.py
+python Sentiment-Analysis-with-LSTM-Neural-Network.py
 ```
 
 4. **Input Data**: Provide your dataset in CSV format named `Train.csv` containing two columns: `text` (reviews) and `label` (sentiment).
